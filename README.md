@@ -1,0 +1,2 @@
+# kotatkosgrepem
+grep v pythonu
